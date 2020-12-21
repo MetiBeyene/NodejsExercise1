@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-exercises-metibeyene",
+  "version": "1.0.0",
+  "description": "",
+  "main": "square.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israeltechchallenge/nodejs-exercises-MetiBeyene.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israeltechchallenge/nodejs-exercises-MetiBeyene/issues"
+  },
+  "homepage": "https://github.com/israeltechchallenge/nodejs-exercises-MetiBeyene#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "router": "^1.3.5"
+  }
+}
